@@ -9,6 +9,7 @@ public class Array {
       a[2]=30;
       a[3]=40;
       a[4]=50;
+      a[5]=60;
       int b[]= {10,4,8,2,9};
       for(int i=0; i<a.length; i++)
       {
